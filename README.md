@@ -28,6 +28,11 @@ receives real verification codes.
 Tell Jason the exact screen, what you tapped, and what you expected to happen.
 A screenshot helps.
 
+## Credits
+
+Based on original capstone research by Matthew Rodriguez. Built by Jason
+Randazza (RanDigital).
+
 ## Rights
 
 Copyright © 2026 Jason Randazza (RanDigital). All rights reserved. See
